@@ -1,9 +1,4 @@
----
-title: "Web Scraping using SkyTrax"
-author: "Rahul Chauhan"
-date: "2023-02-02"
-output: html_document
----
+
 
 ## Installing necessary packages to extract HTML elements from the website
 
